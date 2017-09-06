@@ -1,0 +1,2 @@
+- when user clicks on location title, a blog post will appear
+- when user clicks on location title on the map, blog post will appear
